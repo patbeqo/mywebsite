@@ -1,3 +1,4 @@
 # My personal website
-- CSS grids and deployed through netlify
+- Used CSS grids
+- Deployed through netlify
 https://patrikbeqo.netlify.app/
