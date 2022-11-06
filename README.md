@@ -1,1 +1,1 @@
-patrikbeqo.netlify.app
+https://patrikbeqo.netlify.app/
